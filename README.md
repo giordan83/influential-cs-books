@@ -17,13 +17,13 @@ So, the list is preserved here :)
 3. [Structure and Interpretation of Computer Programs](http://mitpress.mit.edu/sicp/full-text/book/book.html) by Sussman and Abelson (free ebook)
 4. [The C Programming Language](http://cm.bell-labs.com/cm/cs/cbook/) by Brian Kernighan and Dennis Ritchie
 5. [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) by Cormen, Leiserson, Rivest & Stein
-6. [Design Patterns](http://c2.com/cgi/wiki?DesignPatternsBook) by the Gang of Four
+6. `purchased` [Design Patterns](http://c2.com/cgi/wiki?DesignPatternsBook) by the Gang of Four
 7. [Refactoring: Improving the Design of Existing Code](http://martinfowler.com/books/refactoring.html) by Martin Fowler
 8. [The Mythical Man Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) by Fred Brooks
 9. [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) by Donald Knuth
 10. [Compilers: Principles, Techniques and Tools](http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811) by Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman
 11. [Gödel, Escher, Bach](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) by Douglas Hofstadter
-12. [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
+12. `purchased` [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
 13. [Effective C++](http://www.aristeia.com/books.html) by Scott Meyers
 14. [More Effective C++](http://www.aristeia.com/books.html) by Scott Meyers
 15. [CODE](http://www.charlespetzold.com/code/) by Charles Petzold
@@ -39,7 +39,7 @@ So, the list is preserved here :)
 25. [Why's (Poignant) Guide to Ruby](http://www.rubyinside.com/media/poignant-guide.pdf) by why the lucky stiff (free PDF)
 26. [The Inmates Are Running The Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity](http://www.amazon.com/The-Inmates-Are-Running-Asylum/dp/0672326140) by Alan Cooper
 27. [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/) by Eric S. Raymond
-28. [Test-Driven Development: By Example](http://www.eecs.yorku.ca/course_archive/2003-04/W/3311/sectionM/case_studies/money/KentBeck_TDD_byexample.pdf) by Kent Beck (free PDF)
+28. `purchased` [Test-Driven Development: By Example](http://www.eecs.yorku.ca/course_archive/2003-04/W/3311/sectionM/case_studies/money/KentBeck_TDD_byexample.pdf) by Kent Beck (free PDF)
 29. [Practices of an Agile Developer](http://pragprog.com/book/pad/practices-of-an-agile-developer) by Venkat Subramaniam and Andy Hunt
 30. [Don't Make Me Think](http://www.sensible.com/dmmt.html) by Steve Krug
 31. [Agile Software Development, Principles, Patterns, and Practices](http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert C. Martin
